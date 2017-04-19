@@ -1,0 +1,81 @@
+
+.cajaTitulo {
+  margin-top: 4%;
+  margin-right: 40%;
+  margin-left: 150px;
+}
+
+hr{
+  border: 2px solid #71CFB3;
+}
+
+span {
+  font-size: 170%;
+  font-family: verdana;
+  font-weight: bold;
+}
+
+.contenedorPadre {
+  width: 50%;
+  height: 450px;
+  margin: 10%;
+
+}
+
+.contenedor {
+  position: relative;
+}
+
+/*
+.contenedor{
+  width: 160px;
+  height: 160px;
+  float: left;
+}*/
+
+img.foto {
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin: 5%;
+}
+
+.nombre {
+  position: absolute;
+  color: #E34834;
+  font-size: 15px;
+  font-weight: bold;
+}
+#nombreGaby{
+  top: 160px;
+  left: 70px;
+}
+#nombreLeslie {
+  top: 160px;
+  left: 290px;
+}
+#nombreJosh {
+  top:160px;
+  left: 510px;
+}
+
+#nombreSilvia{
+  top: 380px;
+  left: 70px;
+}
+
+#nombreGrace{
+  top: 380px;
+  left: 280px;
+}
+
+#nombreNelly{
+  top: 380px;
+  left: 510px;
+}
+
+/*
+#imagenSilvia {
+  clear: left;
+}
+*/
